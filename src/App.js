@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Book from "./Book.js";
 import "./styles.css";
 
 export default function App() {
